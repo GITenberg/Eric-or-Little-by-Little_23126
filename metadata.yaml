@@ -19,6 +19,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Frederic_William_Farrar
 description: Portrays life in a corrupt boys' school in nineteenth-century England
   as experienced by a youth who finds it hard to resist the vice he encounters there.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23126#Eric-or-Little-by-Little
 gutenberg_issued: '2007-10-20'
 gutenberg_type: Text
 identifiers:
